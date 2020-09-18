@@ -1,0 +1,12 @@
+.chores {
+        font: 16px, Georgia; 
+        color: green;
+    }
+
+li {
+        font-style:italic;
+    }
+
+h3 {
+        text-decoration: underline;
+    }
